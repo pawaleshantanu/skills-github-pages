@@ -1,0 +1,17 @@
+theme: minima
+title: GITHUB PAGE
+author: Shantanu
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "[6](https://beautifuljekyll.com)"
+    - Learn markdown: "[7](https://www.markdowntutorial.com/)"
+    - Author's home: "[8](https://deanattali.com)"
+
+    avatar: "/assets/img/avatar-icon.png"
+round-avatar: true  # Set to false if you don't want a circular avatar
+social-network-links:
+  email: "pawaleshantanu@gmail.com"
+  rss: true
+
+
