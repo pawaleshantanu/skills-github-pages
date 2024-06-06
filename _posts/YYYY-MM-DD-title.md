@@ -28,3 +28,4 @@ Display code snippets using backticks or triple backticks:
 ```python
 def greet():
     print("Hello, World!")
+
